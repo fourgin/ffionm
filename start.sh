@@ -1,10 +1,10 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=e4c40e74-8352-4bba-a36c-10349334eba4
+export UUID=3dec6c57-0882-4980-9ae3-1d4ec30f401c
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=techtanker.com
+export ProxySite=quizdiva.net
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
